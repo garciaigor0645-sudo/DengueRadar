@@ -1,0 +1,61 @@
+# DengueRadar – Informação para Prevenção
+
+> **Checkpoint 2 – Protótipo Funcional e Evolução** | FMU Tecnologia Inovação (2026.2)
+
+---
+
+## 📌 Sobre o Projeto
+O **DengueRadar** é um protótipo funcional desenvolvido para organizar dados públicos sobre a dengue em gráficos interativos e indicadores claros e acessíveis, facilitando a visualização do cenário epidemiológico e apoiando ações de prevenção.
+
+- **ODS Relacionado:** ODS 3 – Saúde e Bem-Estar
+- **Área:** Saúde pública, prevenção e análise de dados
+
+---
+
+## 👥 Integrantes do Grupo
+- **Matheus Henrique da Silva** – RA: 2026106220
+- **André dos Santos Machado** – RA: 2026105163
+- **Lucas de Sousa Gino** – RA: 2026102275
+- **João Pedro Fernandes Messias** – RA: 2026105511
+- **Igor Garcia Rocha Soares** – RA: 2026100998
+
+---
+
+## ⚠️ Problema
+Informações epidemiológicas muitas vezes encontram-se dispersas em diferentes fontes públicas e tornam-se difíceis de interpretar pelo público geral. O projeto busca centralizar esses dados e traduzi-los em uma interface intuitiva para conscientização e acompanhamento rápido dos índices da doença.
+
+---
+
+## 🔄 Evolução desde o Checkpoint 1
+Na primeira etapa (Ponto de Verificação 1), o grupo estruturou a ideação teórica, a identidade visual e o levantamento das bases públicas. Nesta segunda etapa (Checkpoint 2), avançamos para a implementação prática com:
+- Estruturação de base de dados simulada (mockada) representando registros epidemiológicos por região e mês.
+- Desenvolvimento do protótipo funcional com visualização de indicadores e gráficos interativos.
+- Implementação de filtros para consulta por período e localidade.
+
+---
+
+## 📸 Demonstração do Protótipo
+*(Cole os prints das telas do sistema aqui usando `Ctrl + V` diretamente no editor do GitHub)*
+
+### Tela Principal / Dashboard
+![Dashboard DengueRadar](COLE_AQUI_O_PRINT_DO_DASHBOARD)
+
+### Filtros e Indicadores
+![Filtros DengueRadar](COLE_AQUI_O_PRINT_DOS_FILTROS)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **Front-end:** HTML5, CSS3, JavaScript *(ajuste conforme as ferramentas que vocês usaram)*
+- **Visualização de Dados:** Chart.js / bibliotecas gráficas *(ajuste se necessário)*
+- **Prototipação / Design:** Figma
+- **Versionamento:** Git e GitHub
+
+---
+
+## 🚀 Como Executar o Projeto
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/garciaigor0645-sudo/DengueRadar.git
+   ```
+2. Acesse a pasta do projeto e abra o arquivo principal ou execute o servidor local.
